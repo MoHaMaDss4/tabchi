@@ -28,10 +28,5 @@ cd T*
 -
 ./bot autolaunch
 -
-**[•Developer•](https://t.me/persiancyber1)**
--
-**[•channel•](https://t.me/etehad_arazel)**
--
-**[•News Tabchi and help•](https://t.me/tabchiro/3)**
--
+**[•channel•](https://t.me/games4)**
 ---
